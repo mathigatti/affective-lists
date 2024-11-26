@@ -4,7 +4,7 @@ List of behavioural, emotional and physiological words and concepts + its attrib
 
 ## Procedure
 
-I collected some samples from the sources listed below and I turned that in JSON format with chatGPT help. It's a work in progress, help is very much welcomed.
+I collected some samples from the sources listed below and I turned that in JSON format with chatGPT help, I also asked chatGPT to create some of the tables (almost) from scratch so it probably has errors. It's a work in progress, help is very much welcomed.
 
 ## Project Structure
 
@@ -18,7 +18,7 @@ It will contain a list of behaviours and physiological states, check giongo.json
 
 ### Nervous System
 
-It contains a table (Comprehensive_Nervous_System_Substances_Overview.csv) that lists different neurotransmitters and other psychoactive substances that affect our emotions and perception, and its characteristics (It was made using chatGPT so it probably has errors).
+It contains some files that give details about neurotransmitters, psychoactive substances and sensory neurons
 
 ## Sources
 

@@ -44,6 +44,52 @@
       "focus": "present",
       "anticipation": "low",
       "unpredictability": "moderate"
+    },
+    "hourglass_of_emotions": {
+      "sensitivity": {
+        "description": "The emotional response to stimuli that triggers anger, heightened perception of threats or annoyances.",
+        "sentic_levels": [
+          "rage",
+          "anger",
+          "annoyance",
+          "apprehension",
+          "fear",
+          "terror"
+        ]
+      },
+      "attention": {
+        "description": "Directed focus on the cause of anger, increased vigilance and alertness.",
+        "sentic_levels": [
+          "vigilance",
+          "anticipation",
+          "interest",
+          "distraction",
+          "surprise",
+          "amazement"
+        ]
+      },
+      "aptitude": {
+        "description": "Capacity to respond with hostility, readiness to act aggressively when provoked.",
+        "sentic_levels": [
+          "admiration",
+          "trust",
+          "acceptance",
+          "boredom",
+          "disgust",
+          "loathing"
+        ]
+      },
+      "pleasantness": {
+        "description": "Measures how pleasant or unpleasant the emotion is, contributing to the overall emotional state.",
+        "sentic_levels": [
+          "ecstasy",
+          "joy",
+          "serenity",
+          "pensiveness",
+          "sadness",
+          "grief"
+        ]
+      }
     }
   }
 }
