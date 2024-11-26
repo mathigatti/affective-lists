@@ -1,0 +1,44 @@
+{
+  "emotion": "anger",
+  "attributes": {
+    "valence": "negative",
+    "arousal": "high",
+    "primary_emotion_pair": ["anger", "fear"],
+    "dominance": "high",
+    "emotional_state": "hostility",
+    "affective_dimension": "Sensitivity",
+    "sentic_level": 5,
+    "intensity": "moderate",
+    "neurotransmitters": {
+      "serotonin": "low",
+      "dopamine": "high",
+      "noradrenaline": "high"
+    },
+    "somatic_and_behavioural_markers": {
+      "estado_o_actividad_fisiologica": "increased heart rate, elevated muscle tension",
+      "main_body_parts_involved": ["face", "jaw", "hands", "chest"],
+      "body_posture": "leaning forward, tense",
+      "facial_expression": "frowning, tightened lips, clenched jaw, eyes narrowed, red face",
+      "behavioral_response": "yelling, aggressive posture",
+      "gaze": {
+        "eyes": "narrowed",
+        "eye_contact": "intense",
+        "direction": "focused on target"
+      },
+      "muscle_tone": "increased",
+      "movement_pattern": "abrupt, forceful",
+      "vocalizations": {
+        "style": "loud, sharp",
+        "pattern": "irregular, explosive"
+      }
+    },
+    "sensory_sensibility_level": "high sensitivity to auditory and visual stimuli",
+    "breathing_pattern": "shallow, rapid",
+    "body_temperature": "increased",
+    "blood_flow_pattern": {
+      "heart_rhythm": "elevated",
+      "regions_with_increased_blood_flow": ["face", "hands"],
+      "regions_with_decreased_blood_flow": ["extremities"]
+    }
+  }
+}
