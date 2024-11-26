@@ -1,6 +1,6 @@
 # emotions2json (WIP)
 
-List of behavioural, emotional and physiological words and concepts + its attributes (WIP). Inspired on the concept of [somatic makers](https://en.wikipedia.org/wiki/Somatic_marker_hypothesis).
+List of behavioural, emotional and physiological words and concepts + its attributes (WIP). Inspired by the concept of [somatic makers](https://en.wikipedia.org/wiki/Somatic_marker_hypothesis).
 
 ## Procedure
 
@@ -12,7 +12,7 @@ I collected some samples from the sources listed below and I turned that in JSON
 
 It will contain a long list of emotions and its characteristics, check anger.json
 
-### behaviour and physiology
+### Behaviour and Physiology
 
 It will contain a list of behaviours and physiological states, check giongo.json
 
