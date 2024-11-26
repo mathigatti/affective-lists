@@ -1,6 +1,6 @@
 # emotions2json (WIP)
 
-List of behavioural, emotional and physiological words and concepts + its attributes (WIP). Inspired by the concept of [somatic makers](https://en.wikipedia.org/wiki/Somatic_marker_hypothesis).
+List of behavioural, emotional and physiological words and concepts + its attributes. Inspired by the concept of [somatic makers](https://en.wikipedia.org/wiki/Somatic_marker_hypothesis).
 
 ## Procedure
 
