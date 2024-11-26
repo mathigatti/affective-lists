@@ -15,7 +15,7 @@ It will contain a list of behaviours and physiological states, check giongo.json
 
 ### Nervous System
 
-It contains a table (CSV file) that lists different neurotransmitters and other psychoactive substances that affect our emotions and perception, and its characteristics (It was made using chatGPT so it probably has errors).
+It contains a table (Comprehensive_Nervous_System_Substances_Overview.csv) that lists different neurotransmitters and other psychoactive substances that affect our emotions and perception, and its characteristics (It was made using chatGPT so it probably has errors).
 
 ## Sources
 
