@@ -12,7 +12,7 @@ I collected some samples from the sources listed below and I turned that in JSON
 
 It will contain a long list of emotions and its characteristics, check anger.json
 
-### behaviour and physiology
+### Behaviour and Physiology
 
 It will contain a list of behaviours and physiological states, check giongo.json
 
